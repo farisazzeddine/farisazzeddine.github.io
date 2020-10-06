@@ -10,7 +10,7 @@ class Contact extends React.Component{
                     <div >
                     <img className="img-contact" src={require('./images/brand.png')} alt="photo de profil"/>
                     </div>
-                    <p>‘‘A propos, <strong>AZZEDDINE FARIS </strong>, âgé de 27 ans,
+                    <p>‘‘A propos, <strong>AZZEDDINE FARIS </strong>, âgé de 28 ans,
                     j'occupe actuellement le poste de "Développeur web Back-end" chez <em>la société AIM - ALL'in Marketing  </em>
                         lauréat de la faculté des sciences Ben M'sik ayant un Master des études fondamentaux en Traitement d'information en 2017 .’’</p>
                     </section>
